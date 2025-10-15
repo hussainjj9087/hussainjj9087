@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### ⚙️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,go,python,mysql,sqlite,git,github,docker,linux,vscode,idea" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hussainjj9087&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainjj9087&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainjj9087&layout=compact&theme=radical" />
+</p>
