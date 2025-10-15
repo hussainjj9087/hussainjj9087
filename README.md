@@ -23,4 +23,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,go,cpp,c,postgres,mysql,sqlite,git,github,linux,vscode,idea,visualstudio" />
 </p>
 
+
+<img src="https://github-readme-stats-iqzapw3m6-koroots-projects.vercel.app/api?username=hussainjj9087&show_icons=true&theme=radical" />
+
 ---
